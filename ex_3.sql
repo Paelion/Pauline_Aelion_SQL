@@ -1,0 +1,1 @@
+DELETE FROM collaborateur WHERE id = 11;
